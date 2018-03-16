@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/6e767fdfa30d8c552f288fcddeab5a82/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/3a2a4baf14bd574dde1a461253cae18c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ea32968888fc6664e4a1bf78eabba30b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/fb2c9707fc3c6cc35d7eee3a02ba6cdf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/7aeb2cfe93ce3fb963d0ec5ce0170305/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/a94abbbaa833146f4e79fb1884dd4460/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/5bdf45f1affb9c3551ab01dd9a88227c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/bb65942876d27b9725db65abe29b7884/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/8ffdbc234c0ca1e3b99ae3c84c57a2a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/ce8e5316447db66d75203c072f39ef78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bb2d8bc261c8b8093d4d4123cd66790c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/379875b8d741e3c92c0f903ddd242699/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/aab1d194fd13e3783053207ba0502fe1/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/6e767fdfa30d8c552f288fcddeab5a82/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/6e767fdfa30d8c552f288fcddeab5a82/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ea32968888fc6664e4a1bf78eabba30b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ea32968888fc6664e4a1bf78eabba30b/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/7aeb2cfe93ce3fb963d0ec5ce0170305/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/7aeb2cfe93ce3fb963d0ec5ce0170305/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/379875b8d741e3c92c0f903ddd242699/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/379875b8d741e3c92c0f903ddd242699/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.nicholas.recylcerview.MainActivity
+ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
+INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/6e767fdfa30d8c552f288fcddeab5a82/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /home/nicholas/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/6e767fdfa30d8c552f288fcddeab5a82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/3a2a4baf14bd574dde1a461253cae18c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/3a2a4baf14bd574dde1a461253cae18c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ea32968888fc6664e4a1bf78eabba30b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ea32968888fc6664e4a1bf78eabba30b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/fb2c9707fc3c6cc35d7eee3a02ba6cdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/fb2c9707fc3c6cc35d7eee3a02ba6cdf/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/7aeb2cfe93ce3fb963d0ec5ce0170305/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/7aeb2cfe93ce3fb963d0ec5ce0170305/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/a94abbbaa833146f4e79fb1884dd4460/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/a94abbbaa833146f4e79fb1884dd4460/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/5bdf45f1affb9c3551ab01dd9a88227c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/5bdf45f1affb9c3551ab01dd9a88227c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/bb65942876d27b9725db65abe29b7884/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/bb65942876d27b9725db65abe29b7884/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/8ffdbc234c0ca1e3b99ae3c84c57a2a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/8ffdbc234c0ca1e3b99ae3c84c57a2a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/ce8e5316447db66d75203c072f39ef78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/ce8e5316447db66d75203c072f39ef78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bb2d8bc261c8b8093d4d4123cd66790c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/nicholas/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bb2d8bc261c8b8093d4d4123cd66790c/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/379875b8d741e3c92c0f903ddd242699/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /home/nicholas/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/379875b8d741e3c92c0f903ddd242699/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/aab1d194fd13e3783053207ba0502fe1/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/nicholas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/aab1d194fd13e3783053207ba0502fe1/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
+INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicholas/AndroidStudioProjects/RECYLCERVIEW/app/src/main/AndroidManifest.xml
